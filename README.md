@@ -103,7 +103,7 @@ Com base nas ações selecionadas e no período definido, o sistema:
 
 Desenvolvido por **Vitor Alves**  
 📧 vitoralves20112011@gmail.com  
-💼 [linkedin.com/in/seu-perfil](https://linkedin.com/in/vit0ralves)
+💼 https://linkedin.com/in/vit0ralves
 
 ---
 
