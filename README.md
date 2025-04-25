@@ -3,6 +3,10 @@
 
 Este projeto é uma aplicação interativa desenvolvida com **Python** e **Streamlit**, que permite aos usuários visualizarem a evolução histórica do preço de ações da bolsa brasileira (**B3**) de forma simples, intuitiva e altamente visual.
 
+
+![image](https://github.com/user-attachments/assets/98d88b6b-5fab-4455-8843-a4d529b37095)
+
+
 ---
 
 ## 🚀 Funcionalidades
