@@ -94,15 +94,6 @@ Com base nas ações selecionadas e no período definido, o sistema:
 
 ---
 
-## 💡 Diferenciais
-
-✨ Interface limpa, responsiva e fácil de usar  
-✨ Códigos organizados e com comentários explicativos  
-✨ Abordagem educativa e prática para quem está aprendendo análise de dados  
-✨ Ideal para incluir em portfólios profissionais ou acadêmicos
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **Vitor Alves**  
@@ -118,5 +109,3 @@ Esse projeto mostra a integração entre Python, dados financeiros e visualizaç
 - **Análise de dados**
 - **Desenvolvimento web com Streamlit**
 - **Automatização com bibliotecas do ecossistema Python**
-
-Se você está procurando um desenvolvedor com visão analítica, domínio técnico e foco em entregar soluções intuitivas — **vamos conversar!**
